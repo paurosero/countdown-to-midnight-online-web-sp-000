@@ -1,9 +1,9 @@
 #write your code here
 
-def countdown (number)
-  number = 10
+def countdown (n)
+  n = 10
   10.times do
-    number = number - 1
-    "#{number} SECOND(S)!"
+    n = n - 1
+    "#{n} SECOND(S)!"
  end
 end
