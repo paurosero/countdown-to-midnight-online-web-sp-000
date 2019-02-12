@@ -1,5 +1,8 @@
 #write your code here
 
-def countdown (second)
-  
+def countdown (number)
+  number = 10
+  10.times do
+    puts "HAPPY NEW YEAR!"
+  end
 end
