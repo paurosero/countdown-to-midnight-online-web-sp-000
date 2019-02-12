@@ -2,9 +2,9 @@
 
 def countdown (number)
   number = 10
-  10.times do 
-   "#{number} SECOND(S)!"
-    number = number - 1
+  10.times do
 
+    number = number - 1
+  "#{number} SECOND(S)!"
  end
 end
