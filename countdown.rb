@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown (number)
-  number = 10
+  number = 11
   10.times do
     puts "HAPPY NEW YEAR!"
     number -= 1
