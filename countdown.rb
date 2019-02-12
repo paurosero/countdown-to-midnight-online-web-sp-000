@@ -5,6 +5,6 @@ def countdown (number)
   9.times do
     puts "HAPPY NEW YEAR!"
     number = number - 1
-    puts "#{number} SECOND(S)!"
+    "#{number} SECOND(S)!"
  end
 end
