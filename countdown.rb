@@ -2,7 +2,7 @@
 
 def countdown (number)
   number = 10
-  9.times do
+  10.times do
     puts "HAPPY NEW YEAR!"
     number = number - 1
     "#{number} SECOND(S)!"
